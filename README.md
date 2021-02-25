@@ -1,0 +1,2 @@
+# ip
+İP Adresinizi Öğrenin.
